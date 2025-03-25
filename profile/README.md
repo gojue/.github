@@ -1,4 +1,3 @@
-
 # Welcome to `gojue` Organization
 
 The `gojue` organization is a **non-profit**, community-driven open-source collective dedicated to advancing IT technology through knowledge sharing and collaborative development. Our mission is to provide high-quality technical resources and tools to help developers and engineers improve their skills and stay up-to-date with industry trends.
@@ -19,25 +18,16 @@ The `gojue` organization is a **non-profit**, community-driven open-source colle
 - Collection of slide decks and training materials for eBPF  
 - Perfect for developers getting started with eBPF  
 
-## Join Us
-
-We welcome developers, enthusiasts, and anyone interested in advancing IT technology to join our community. Whether you're a seasoned expert or just starting out, your contributions and ideas are valuable to us.
-
-- **Contribute**: Join our open-source projects and help shape the future of eBPF and AI Agent technology  
-- **Learn**: Access our training materials and stay updated with the latest trends  
-- **Connect**: Join our growing community of technical professionals  
-
----
-
-## Explore More
-
-🌐 Visit our GitHub organization page to learn more about our work:  
-[https://github.com/gojue](https://github.com/gojue)
+Explore More: [https://github.com/gojue](https://github.com/gojue)
 
 ### Contact Us
 - **Email**: [cfc4n.cs@gmail.com](mailto:cfc4n.cs@gmail.com)  
 - **WeChat Official Account**: Join our WeChat community to stay connected!  
-  - 微信公众号: `榫卯江湖`  
+  - Blog: [CFC4N的博客](https://cnxct.com)
+  - BiliBili: [CFC4N的BiliBili](https://space.bilibili.com/11445958)
   - QQ Group: [![QQ 群](https://img.shields.io/badge/QQ群-%2312B7F5?logo=tencent-qq&logoColor=white&style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?k=iCu561fq4zdbHVdntQLFV0Xugrnf7Hpv&jump_from=webapi&authKey=YamGv189Cg+KFdQt1Qnsw6GZlpx8BYA+G2WZFezohY4M03V+l0eElZWOhZj/wR/5)  
+  - 微信公众号: `榫卯江湖`  
+
+![](./../images/wechat_gzhh.png)
 
 Feel free to reach out with questions, suggestions, or collaboration opportunities. Together, we're building a better technical future!
