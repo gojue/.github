@@ -14,7 +14,12 @@ The `gojue` organization is a **non-profit**, community-driven open-source colle
 - Capturing SSL/TLS plaintext without a CA certificate using eBPF
 - Supported on Linux/Android kernels for amd64/arm64
 
-📚 **[ebpf-slide](https://github.com/gojue/ebpf-slide)**  
+🤖 **[（智能体）MoLing MCP Server](https://github.com/gojue/moling)**   ![GitHub stars](https://img.shields.io/github/stars/gojue/moling.svg?label=Stars&logo=github)
+- Dependency-Free & Cross-Platform: Runs directly on Windows, Linux, and macOS with zero dependencies, eliminating environment conflicts.
+- System-Level Operations: Leverages OS APIs for filesystem management, command execution, and browser control with powerful flexibility.
+- Future-Ready: Upcoming features include PC assistance tools (e.g., document organization, scheduling) and multi-client support (Stdio/SSE).
+
+📚 **[ebpf-slide](https://github.com/gojue/ebpf-slide)**   ![GitHub stars](https://img.shields.io/github/stars/gojue/ebpf-slide.svg?label=Stars&logo=github)
 - Collection of slide decks and training materials for eBPF  
 - Perfect for developers getting started with eBPF  
 
